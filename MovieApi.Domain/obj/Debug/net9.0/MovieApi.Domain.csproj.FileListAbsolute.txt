@@ -1,0 +1,14 @@
+C:\Users\kamal\source\repos\Movie.API\MovieApi.Domain\bin\Debug\net9.0\MovieApi.Domain.deps.json
+C:\Users\kamal\source\repos\Movie.API\MovieApi.Domain\bin\Debug\net9.0\MovieApi.Domain.runtimeconfig.json
+C:\Users\kamal\source\repos\Movie.API\MovieApi.Domain\bin\Debug\net9.0\MovieApi.Domain.dll
+C:\Users\kamal\source\repos\Movie.API\MovieApi.Domain\bin\Debug\net9.0\MovieApi.Domain.pdb
+C:\Users\kamal\source\repos\Movie.API\MovieApi.Domain\obj\Debug\net9.0\MovieApi.Domain.csproj.AssemblyReference.cache
+C:\Users\kamal\source\repos\Movie.API\MovieApi.Domain\obj\Debug\net9.0\MovieApi.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kamal\source\repos\Movie.API\MovieApi.Domain\obj\Debug\net9.0\MovieApi.Domain.AssemblyInfoInputs.cache
+C:\Users\kamal\source\repos\Movie.API\MovieApi.Domain\obj\Debug\net9.0\MovieApi.Domain.AssemblyInfo.cs
+C:\Users\kamal\source\repos\Movie.API\MovieApi.Domain\obj\Debug\net9.0\MovieApi.Domain.csproj.CoreCompileInputs.cache
+C:\Users\kamal\source\repos\Movie.API\MovieApi.Domain\obj\Debug\net9.0\MovieApi.Domain.dll
+C:\Users\kamal\source\repos\Movie.API\MovieApi.Domain\obj\Debug\net9.0\refint\MovieApi.Domain.dll
+C:\Users\kamal\source\repos\Movie.API\MovieApi.Domain\obj\Debug\net9.0\MovieApi.Domain.pdb
+C:\Users\kamal\source\repos\Movie.API\MovieApi.Domain\obj\Debug\net9.0\MovieApi.Domain.genruntimeconfig.cache
+C:\Users\kamal\source\repos\Movie.API\MovieApi.Domain\obj\Debug\net9.0\ref\MovieApi.Domain.dll
