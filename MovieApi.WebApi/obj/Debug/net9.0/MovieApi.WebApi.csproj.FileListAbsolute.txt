@@ -171,3 +171,6 @@ C:\Users\kamal\source\repos\Movie.API\MovieApi.WebApi\obj\Debug\net9.0\ref\Movie
 C:\Users\kamal\source\repos\Movie.API\MovieApi.WebApi\bin\Debug\net9.0\Swashbuckle.AspNetCore.Swagger.dll
 C:\Users\kamal\source\repos\Movie.API\MovieApi.WebApi\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerGen.dll
 C:\Users\kamal\source\repos\Movie.API\MovieApi.WebApi\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\kamal\source\repos\Movie.API\MovieApi.WebApi\bin\Debug\net9.0\MediatR.dll
+C:\Users\kamal\source\repos\Movie.API\MovieApi.WebApi\bin\Debug\net9.0\MediatR.Contracts.dll
+C:\Users\kamal\source\repos\Movie.API\MovieApi.WebApi\obj\Debug\net9.0\MovieApi.WebApi.sourcelink.json

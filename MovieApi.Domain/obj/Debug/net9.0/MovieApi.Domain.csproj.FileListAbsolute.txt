@@ -12,3 +12,4 @@ C:\Users\kamal\source\repos\Movie.API\MovieApi.Domain\obj\Debug\net9.0\refint\Mo
 C:\Users\kamal\source\repos\Movie.API\MovieApi.Domain\obj\Debug\net9.0\MovieApi.Domain.pdb
 C:\Users\kamal\source\repos\Movie.API\MovieApi.Domain\obj\Debug\net9.0\MovieApi.Domain.genruntimeconfig.cache
 C:\Users\kamal\source\repos\Movie.API\MovieApi.Domain\obj\Debug\net9.0\ref\MovieApi.Domain.dll
+C:\Users\kamal\source\repos\Movie.API\MovieApi.Domain\obj\Debug\net9.0\MovieApi.Domain.sourcelink.json

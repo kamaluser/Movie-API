@@ -17,3 +17,4 @@ C:\Users\kamal\source\repos\Movie.API\MovieApi.Application\obj\Debug\net9.0\refi
 C:\Users\kamal\source\repos\Movie.API\MovieApi.Application\obj\Debug\net9.0\MovieApi.Application.pdb
 C:\Users\kamal\source\repos\Movie.API\MovieApi.Application\obj\Debug\net9.0\MovieApi.Application.genruntimeconfig.cache
 C:\Users\kamal\source\repos\Movie.API\MovieApi.Application\obj\Debug\net9.0\ref\MovieApi.Application.dll
+C:\Users\kamal\source\repos\Movie.API\MovieApi.Application\obj\Debug\net9.0\MovieApi.Application.sourcelink.json
