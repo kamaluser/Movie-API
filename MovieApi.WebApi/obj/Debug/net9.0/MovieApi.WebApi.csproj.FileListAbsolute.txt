@@ -155,12 +155,6 @@ C:\Users\kamal\source\repos\Movie.API\MovieApi.WebApi\obj\Debug\net9.0\scopedcss
 C:\Users\kamal\source\repos\Movie.API\MovieApi.WebApi\obj\Debug\net9.0\staticwebassets.build.json
 C:\Users\kamal\source\repos\Movie.API\MovieApi.WebApi\obj\Debug\net9.0\staticwebassets.development.json
 C:\Users\kamal\source\repos\Movie.API\MovieApi.WebApi\obj\Debug\net9.0\staticwebassets.build.endpoints.json
-C:\Users\kamal\source\repos\Movie.API\MovieApi.WebApi\obj\Debug\net9.0\staticwebassets\msbuild.MovieApi.WebApi.Microsoft.AspNetCore.StaticWebAssets.props
-C:\Users\kamal\source\repos\Movie.API\MovieApi.WebApi\obj\Debug\net9.0\staticwebassets\msbuild.MovieApi.WebApi.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
-C:\Users\kamal\source\repos\Movie.API\MovieApi.WebApi\obj\Debug\net9.0\staticwebassets\msbuild.build.MovieApi.WebApi.props
-C:\Users\kamal\source\repos\Movie.API\MovieApi.WebApi\obj\Debug\net9.0\staticwebassets\msbuild.buildMultiTargeting.MovieApi.WebApi.props
-C:\Users\kamal\source\repos\Movie.API\MovieApi.WebApi\obj\Debug\net9.0\staticwebassets\msbuild.buildTransitive.MovieApi.WebApi.props
-C:\Users\kamal\source\repos\Movie.API\MovieApi.WebApi\obj\Debug\net9.0\staticwebassets.pack.json
 C:\Users\kamal\source\repos\Movie.API\MovieApi.WebApi\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt
 C:\Users\kamal\source\repos\Movie.API\MovieApi.WebApi\obj\Debug\net9.0\MovieApi.FCDA51CF.Up2Date
 C:\Users\kamal\source\repos\Movie.API\MovieApi.WebApi\obj\Debug\net9.0\MovieApi.WebApi.dll
@@ -174,3 +168,4 @@ C:\Users\kamal\source\repos\Movie.API\MovieApi.WebApi\bin\Debug\net9.0\Swashbuck
 C:\Users\kamal\source\repos\Movie.API\MovieApi.WebApi\bin\Debug\net9.0\MediatR.dll
 C:\Users\kamal\source\repos\Movie.API\MovieApi.WebApi\bin\Debug\net9.0\MediatR.Contracts.dll
 C:\Users\kamal\source\repos\Movie.API\MovieApi.WebApi\obj\Debug\net9.0\MovieApi.WebApi.sourcelink.json
+C:\Users\kamal\source\repos\Movie.API\MovieApi.WebApi\obj\Debug\net9.0\staticwebassets.build.json.cache

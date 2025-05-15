@@ -3,16 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\kamal\\source\\repos\\Movie.API\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{71E64171-0491-4790-8180-9CCE75A540BF}|Frontends\\MovieApi.WebUI\\MovieApi.WebUI.csproj|c:\\users\\kamal\\source\\repos\\movie.api\\frontends\\movieapi.webui\\views\\userwebuilayout\\layoutui.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{71E64171-0491-4790-8180-9CCE75A540BF}|Frontends\\MovieApi.WebUI\\MovieApi.WebUI.csproj|solutionrelative:frontends\\movieapi.webui\\views\\userwebuilayout\\layoutui.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{71E64171-0491-4790-8180-9CCE75A540BF}|Frontends\\MovieApi.WebUI\\MovieApi.WebUI.csproj|c:\\users\\kamal\\source\\repos\\movie.api\\frontends\\movieapi.webui\\views\\movie\\movielist.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{71E64171-0491-4790-8180-9CCE75A540BF}|Frontends\\MovieApi.WebUI\\MovieApi.WebUI.csproj|solutionrelative:frontends\\movieapi.webui\\views\\movie\\movielist.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{71E64171-0491-4790-8180-9CCE75A540BF}|Frontends\\MovieApi.WebUI\\MovieApi.WebUI.csproj|c:\\users\\kamal\\source\\repos\\movie.api\\frontends\\movieapi.webui\\views\\shared\\components\\_userlayoutwebuinavbarcomponentpartial\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{71E64171-0491-4790-8180-9CCE75A540BF}|Frontends\\MovieApi.WebUI\\MovieApi.WebUI.csproj|solutionrelative:frontends\\movieapi.webui\\views\\shared\\components\\_userlayoutwebuinavbarcomponentpartial\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{71E64171-0491-4790-8180-9CCE75A540BF}|Frontends\\MovieApi.WebUI\\MovieApi.WebUI.csproj|c:\\users\\kamal\\source\\repos\\movie.api\\frontends\\movieapi.webui\\controllers\\moviecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71E64171-0491-4790-8180-9CCE75A540BF}|Frontends\\MovieApi.WebUI\\MovieApi.WebUI.csproj|solutionrelative:frontends\\movieapi.webui\\controllers\\moviecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{71E64171-0491-4790-8180-9CCE75A540BF}|Frontends\\MovieApi.WebUI\\MovieApi.WebUI.csproj|c:\\users\\kamal\\source\\repos\\movie.api\\frontends\\movieapi.webui\\controllers\\userwebuilayoutcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{71E64171-0491-4790-8180-9CCE75A540BF}|Frontends\\MovieApi.WebUI\\MovieApi.WebUI.csproj|solutionrelative:frontends\\movieapi.webui\\controllers\\userwebuilayoutcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7EBD2F33-657D-4809-BA08-148F8804319D}|Frontends\\MovieApi.Dto\\MovieApi.Dto.csproj|c:\\users\\kamal\\source\\repos\\movie.api\\frontends\\movieapi.dto\\dtos\\moviedtos\\resultmoviedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7EBD2F33-657D-4809-BA08-148F8804319D}|Frontends\\MovieApi.Dto\\MovieApi.Dto.csproj|solutionrelative:frontends\\movieapi.dto\\dtos\\moviedtos\\resultmoviedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71E64171-0491-4790-8180-9CCE75A540BF}|Frontends\\MovieApi.WebUI\\MovieApi.WebUI.csproj|c:\\users\\kamal\\source\\repos\\movie.api\\frontends\\movieapi.webui\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71E64171-0491-4790-8180-9CCE75A540BF}|Frontends\\MovieApi.WebUI\\MovieApi.WebUI.csproj|solutionrelative:frontends\\movieapi.webui\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,7 +26,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Bookmark",
@@ -38,40 +42,52 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Default.cshtml",
-              "DocumentMoniker": "C:\\Users\\kamal\\source\\repos\\Movie.API\\Frontends\\MovieApi.WebUI\\Views\\Shared\\Components\\_UserLayoutWebUINavbarComponentPartial\\Default.cshtml",
-              "RelativeDocumentMoniker": "Frontends\\MovieApi.WebUI\\Views\\Shared\\Components\\_UserLayoutWebUINavbarComponentPartial\\Default.cshtml",
-              "ToolTip": "C:\\Users\\kamal\\source\\repos\\Movie.API\\Frontends\\MovieApi.WebUI\\Views\\Shared\\Components\\_UserLayoutWebUINavbarComponentPartial\\Default.cshtml",
-              "RelativeToolTip": "Frontends\\MovieApi.WebUI\\Views\\Shared\\Components\\_UserLayoutWebUINavbarComponentPartial\\Default.cshtml",
-              "ViewState": "AgIAACMAAAAAAAAAAAAAACsAAAALAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-14T00:31:18.906Z"
+              "DocumentIndex": 2,
+              "Title": "ResultMovieDto.cs",
+              "DocumentMoniker": "C:\\Users\\kamal\\source\\repos\\Movie.API\\Frontends\\MovieApi.Dto\\Dtos\\MovieDtos\\ResultMovieDto.cs",
+              "RelativeDocumentMoniker": "Frontends\\MovieApi.Dto\\Dtos\\MovieDtos\\ResultMovieDto.cs",
+              "ToolTip": "C:\\Users\\kamal\\source\\repos\\Movie.API\\Frontends\\MovieApi.Dto\\Dtos\\MovieDtos\\ResultMovieDto.cs",
+              "RelativeToolTip": "Frontends\\MovieApi.Dto\\Dtos\\MovieDtos\\ResultMovieDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-15T23:02:39.731Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\kamal\\source\\repos\\Movie.API\\Frontends\\MovieApi.WebUI\\Program.cs",
+              "RelativeDocumentMoniker": "Frontends\\MovieApi.WebUI\\Program.cs",
+              "ToolTip": "C:\\Users\\kamal\\source\\repos\\Movie.API\\Frontends\\MovieApi.WebUI\\Program.cs",
+              "RelativeToolTip": "Frontends\\MovieApi.WebUI\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-15T22:49:13.585Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "LayoutUI.cshtml",
-              "DocumentMoniker": "C:\\Users\\kamal\\source\\repos\\Movie.API\\Frontends\\MovieApi.WebUI\\Views\\UserWebUILayout\\LayoutUI.cshtml",
-              "RelativeDocumentMoniker": "Frontends\\MovieApi.WebUI\\Views\\UserWebUILayout\\LayoutUI.cshtml",
-              "ToolTip": "C:\\Users\\kamal\\source\\repos\\Movie.API\\Frontends\\MovieApi.WebUI\\Views\\UserWebUILayout\\LayoutUI.cshtml",
-              "RelativeToolTip": "Frontends\\MovieApi.WebUI\\Views\\UserWebUILayout\\LayoutUI.cshtml",
-              "ViewState": "AgIAABUAAAAAAAAAAAAAACQAAAAaAAAAAAAAAA==",
+              "Title": "MovieList.cshtml",
+              "DocumentMoniker": "C:\\Users\\kamal\\source\\repos\\Movie.API\\Frontends\\MovieApi.WebUI\\Views\\Movie\\MovieList.cshtml",
+              "RelativeDocumentMoniker": "Frontends\\MovieApi.WebUI\\Views\\Movie\\MovieList.cshtml",
+              "ToolTip": "C:\\Users\\kamal\\source\\repos\\Movie.API\\Frontends\\MovieApi.WebUI\\Views\\Movie\\MovieList.cshtml",
+              "RelativeToolTip": "Frontends\\MovieApi.WebUI\\Views\\Movie\\MovieList.cshtml",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAIwCAAAAA8AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-13T23:51:10.703Z",
+              "WhenOpened": "2025-05-15T22:08:28.6Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "UserWebUILayoutController.cs",
-              "DocumentMoniker": "C:\\Users\\kamal\\source\\repos\\Movie.API\\Frontends\\MovieApi.WebUI\\Controllers\\UserWebUILayoutController.cs",
-              "RelativeDocumentMoniker": "Frontends\\MovieApi.WebUI\\Controllers\\UserWebUILayoutController.cs",
-              "ToolTip": "C:\\Users\\kamal\\source\\repos\\Movie.API\\Frontends\\MovieApi.WebUI\\Controllers\\UserWebUILayoutController.cs",
-              "RelativeToolTip": "Frontends\\MovieApi.WebUI\\Controllers\\UserWebUILayoutController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 1,
+              "Title": "MovieController.cs",
+              "DocumentMoniker": "C:\\Users\\kamal\\source\\repos\\Movie.API\\Frontends\\MovieApi.WebUI\\Controllers\\MovieController.cs",
+              "RelativeDocumentMoniker": "Frontends\\MovieApi.WebUI\\Controllers\\MovieController.cs",
+              "ToolTip": "C:\\Users\\kamal\\source\\repos\\Movie.API\\Frontends\\MovieApi.WebUI\\Controllers\\MovieController.cs",
+              "RelativeToolTip": "Frontends\\MovieApi.WebUI\\Controllers\\MovieController.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAwwA8AAAAtAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-13T23:50:11.934Z"
+              "WhenOpened": "2025-05-15T22:05:43.564Z"
             }
           ]
         },

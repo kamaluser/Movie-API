@@ -327,12 +327,6 @@ C:\Users\kamal\source\repos\Movie.API\Frontends\MovieApi.WebUI\obj\Debug\net9.0\
 C:\Users\kamal\source\repos\Movie.API\Frontends\MovieApi.WebUI\obj\Debug\net9.0\staticwebassets.build.json
 C:\Users\kamal\source\repos\Movie.API\Frontends\MovieApi.WebUI\obj\Debug\net9.0\staticwebassets.development.json
 C:\Users\kamal\source\repos\Movie.API\Frontends\MovieApi.WebUI\obj\Debug\net9.0\staticwebassets.build.endpoints.json
-C:\Users\kamal\source\repos\Movie.API\Frontends\MovieApi.WebUI\obj\Debug\net9.0\staticwebassets\msbuild.MovieApi.WebUI.Microsoft.AspNetCore.StaticWebAssets.props
-C:\Users\kamal\source\repos\Movie.API\Frontends\MovieApi.WebUI\obj\Debug\net9.0\staticwebassets\msbuild.MovieApi.WebUI.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
-C:\Users\kamal\source\repos\Movie.API\Frontends\MovieApi.WebUI\obj\Debug\net9.0\staticwebassets\msbuild.build.MovieApi.WebUI.props
-C:\Users\kamal\source\repos\Movie.API\Frontends\MovieApi.WebUI\obj\Debug\net9.0\staticwebassets\msbuild.buildMultiTargeting.MovieApi.WebUI.props
-C:\Users\kamal\source\repos\Movie.API\Frontends\MovieApi.WebUI\obj\Debug\net9.0\staticwebassets\msbuild.buildTransitive.MovieApi.WebUI.props
-C:\Users\kamal\source\repos\Movie.API\Frontends\MovieApi.WebUI\obj\Debug\net9.0\staticwebassets.pack.json
 C:\Users\kamal\source\repos\Movie.API\Frontends\MovieApi.WebUI\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt
 C:\Users\kamal\source\repos\Movie.API\Frontends\MovieApi.WebUI\obj\Debug\net9.0\MovieApi.28067800.Up2Date
 C:\Users\kamal\source\repos\Movie.API\Frontends\MovieApi.WebUI\obj\Debug\net9.0\MovieApi.WebUI.dll
@@ -340,3 +334,6 @@ C:\Users\kamal\source\repos\Movie.API\Frontends\MovieApi.WebUI\obj\Debug\net9.0\
 C:\Users\kamal\source\repos\Movie.API\Frontends\MovieApi.WebUI\obj\Debug\net9.0\MovieApi.WebUI.pdb
 C:\Users\kamal\source\repos\Movie.API\Frontends\MovieApi.WebUI\obj\Debug\net9.0\MovieApi.WebUI.genruntimeconfig.cache
 C:\Users\kamal\source\repos\Movie.API\Frontends\MovieApi.WebUI\obj\Debug\net9.0\ref\MovieApi.WebUI.dll
+C:\Users\kamal\source\repos\Movie.API\Frontends\MovieApi.WebUI\obj\Debug\net9.0\staticwebassets.build.json.cache
+C:\Users\kamal\source\repos\Movie.API\Frontends\MovieApi.WebUI\bin\Debug\net9.0\MovieApi.Dto.dll
+C:\Users\kamal\source\repos\Movie.API\Frontends\MovieApi.WebUI\bin\Debug\net9.0\MovieApi.Dto.pdb

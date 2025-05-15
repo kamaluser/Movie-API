@@ -1,0 +1,12 @@
+C:\Users\kamal\source\repos\Movie.API\Frontends\MovieApi.Dto\bin\Debug\net9.0\MovieApi.Dto.deps.json
+C:\Users\kamal\source\repos\Movie.API\Frontends\MovieApi.Dto\bin\Debug\net9.0\MovieApi.Dto.dll
+C:\Users\kamal\source\repos\Movie.API\Frontends\MovieApi.Dto\bin\Debug\net9.0\MovieApi.Dto.pdb
+C:\Users\kamal\source\repos\Movie.API\Frontends\MovieApi.Dto\obj\Debug\net9.0\MovieApi.Dto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kamal\source\repos\Movie.API\Frontends\MovieApi.Dto\obj\Debug\net9.0\MovieApi.Dto.AssemblyInfoInputs.cache
+C:\Users\kamal\source\repos\Movie.API\Frontends\MovieApi.Dto\obj\Debug\net9.0\MovieApi.Dto.AssemblyInfo.cs
+C:\Users\kamal\source\repos\Movie.API\Frontends\MovieApi.Dto\obj\Debug\net9.0\MovieApi.Dto.csproj.CoreCompileInputs.cache
+C:\Users\kamal\source\repos\Movie.API\Frontends\MovieApi.Dto\obj\Debug\net9.0\MovieApi.Dto.sourcelink.json
+C:\Users\kamal\source\repos\Movie.API\Frontends\MovieApi.Dto\obj\Debug\net9.0\MovieApi.Dto.dll
+C:\Users\kamal\source\repos\Movie.API\Frontends\MovieApi.Dto\obj\Debug\net9.0\refint\MovieApi.Dto.dll
+C:\Users\kamal\source\repos\Movie.API\Frontends\MovieApi.Dto\obj\Debug\net9.0\MovieApi.Dto.pdb
+C:\Users\kamal\source\repos\Movie.API\Frontends\MovieApi.Dto\obj\Debug\net9.0\ref\MovieApi.Dto.dll
