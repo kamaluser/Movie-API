@@ -250,7 +250,6 @@ C:\Users\kamal\source\repos\Movie.API\Frontends\MovieApi.WebUI\obj\Debug\net9.0\
 C:\Users\kamal\source\repos\Movie.API\Frontends\MovieApi.WebUI\obj\Debug\net9.0\compressed\58zl9afniq-msnjbda0iy.gz
 C:\Users\kamal\source\repos\Movie.API\Frontends\MovieApi.WebUI\obj\Debug\net9.0\compressed\atqf0leaz8-2tw7vc4pqm.gz
 C:\Users\kamal\source\repos\Movie.API\Frontends\MovieApi.WebUI\obj\Debug\net9.0\compressed\ax7ngiczl9-ov64jnlr59.gz
-C:\Users\kamal\source\repos\Movie.API\Frontends\MovieApi.WebUI\obj\Debug\net9.0\compressed\fmiiv3w1eu-v862mm5o94.gz
 C:\Users\kamal\source\repos\Movie.API\Frontends\MovieApi.WebUI\obj\Debug\net9.0\compressed\cl0qgj897y-jmiivexi52.gz
 C:\Users\kamal\source\repos\Movie.API\Frontends\MovieApi.WebUI\obj\Debug\net9.0\compressed\g76s9i7xje-sdy7qbdw80.gz
 C:\Users\kamal\source\repos\Movie.API\Frontends\MovieApi.WebUI\obj\Debug\net9.0\compressed\5zhe0wlnox-5zy3az1hbv.gz
@@ -337,3 +336,4 @@ C:\Users\kamal\source\repos\Movie.API\Frontends\MovieApi.WebUI\obj\Debug\net9.0\
 C:\Users\kamal\source\repos\Movie.API\Frontends\MovieApi.WebUI\obj\Debug\net9.0\staticwebassets.build.json.cache
 C:\Users\kamal\source\repos\Movie.API\Frontends\MovieApi.WebUI\bin\Debug\net9.0\MovieApi.Dto.dll
 C:\Users\kamal\source\repos\Movie.API\Frontends\MovieApi.WebUI\bin\Debug\net9.0\MovieApi.Dto.pdb
+C:\Users\kamal\source\repos\Movie.API\Frontends\MovieApi.WebUI\obj\Debug\net9.0\compressed\fmiiv3w1eu-qhmko3ahrp.gz
